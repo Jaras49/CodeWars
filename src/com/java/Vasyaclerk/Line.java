@@ -1,4 +1,4 @@
-package com.Vasyaclerk;
+package com.java.Vasyaclerk;
 
 public class Line {
 

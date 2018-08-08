@@ -1,4 +1,4 @@
-package com.sorttheodd;
+package com.java.sorttheodd;
 
 public class Kata {
     public static int[] sortArray(int[] array) {

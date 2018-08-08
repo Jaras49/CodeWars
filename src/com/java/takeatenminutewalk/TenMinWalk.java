@@ -1,4 +1,4 @@
-package com.takeatenminutewalk;
+package com.java.takeatenminutewalk;
 
 import java.util.HashMap;
 

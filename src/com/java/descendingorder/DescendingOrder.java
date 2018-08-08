@@ -1,4 +1,4 @@
-package com.descendingorder;
+package com.java.descendingorder;
 
 import java.util.Arrays;
 

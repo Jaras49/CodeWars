@@ -1,4 +1,4 @@
-package com.findthesmallest;
+package com.java.findthesmallest;
 
 
 import java.util.ArrayList;

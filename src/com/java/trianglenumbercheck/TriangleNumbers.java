@@ -1,4 +1,4 @@
-package com.trianglenumbercheck;
+package com.java.trianglenumbercheck;
 
 public class TriangleNumbers {
 

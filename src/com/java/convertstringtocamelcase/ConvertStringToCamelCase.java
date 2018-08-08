@@ -1,6 +1,5 @@
-package com.convertstringtocamelcase;
+package com.java.convertstringtocamelcase;
 
-import java.lang.StringBuilder;
 class Solution{
 
     static String toCamelCase(String s){

@@ -1,4 +1,4 @@
-package com.large.factorials;
+package com.java.large.factorials;
 import java.math.BigInteger;
 import java.util.stream.IntStream;
 
